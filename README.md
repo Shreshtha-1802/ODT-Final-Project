@@ -17,7 +17,7 @@ A Haunted Circus - NeoPixel fading + DC motor + NeoPixel ring control project us
 - Flash MicroPython firmware to ESP32.
 
 # Code
-See main.py for full code.
+See Final_Code (DC+NeoRing+NeoStrip).py for full code.
 
 ## Notes
 - Be careful with motor voltage and current.
